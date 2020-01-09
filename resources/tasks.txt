@@ -1,0 +1,13 @@
+train:
+	load dataset
+	path to save model
+	model name
+	add indexes
+
+test:
+	load model
+	load test file
+	add indexes
+	number of groups devided
+	checkbox(test VS majority)
+	
